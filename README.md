@@ -192,4 +192,7 @@ isa:Node  rdfs:subClassOf  isa:GraphElement .
 
 <output skipped> See the full output in [N3](https://github.com/ToxBank/isa2rdf/tree/master/isa2rdf/isa2rdf-cli/src/test/resources/toxbank/json/isatab.n3) 
 
+## License
+ISA2RDF is distributed under the terms of the GNU Lesser Public License (LGPL) version 3.
+
 
